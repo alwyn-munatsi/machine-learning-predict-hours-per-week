@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels xgboost
     ```
 2.  Open the Jupyter Notebook:
     ```bash
-    jupyter notebook FinalProject_Notebook.ipynb
+    jupyter notebook ML_Predict_hours_per_week_Project.ipynb
     ```
 3.  Run all cells in the notebook to reproduce the analysis, model training, and evaluation.
 
